@@ -1,0 +1,34 @@
+.top {
+    text-align: center;
+    font-size: 28px;
+    text-shadow: 1px 1px rgb(18, 228, 130);
+    text-emphasis: glow white;
+}
+
+.css {
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 38px;
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+body {
+    background-image: url("https://images.pexels.com/photos/33545/sunrise-phu-quoc-island-ocean.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.form {
+    text-align: center;
+    width: 700px;
+    margin: 0 auto;
+    height: 350px;
+    background-image: linear-gradient(to right, rgb(235, 101, 39), rgb(234, 100, 38), rgb(218, 122, 58), rgb(211, 141, 94));
+    box-shadow: 6px 6px grey;
+}
+
+.button {
+    background-color: rgb(245, 185, 57);
+    width: 100px;
+}
